@@ -1,6 +1,5 @@
-# chia-blockchain
+# chia-blockchain fork
 
-![Alt text](https://www.chia.net/img/chia_logo.svg)
 
 | Current Release/main | Development Branch/dev |
 |         :---:          |          :---:         |
